@@ -1,4 +1,6 @@
 # Journal de bord du projet encadré
+
+I AM ERROR 
 ## Séance 1
 
  Tout d'abord je voudrais informer que je n'ai jamais fait de la programmation et j'ai dû mal à tout comprendre.
