@@ -33,3 +33,7 @@ done < $FICHIERS_URLS  indique que la boucle while lira les lignes du fichier do
 "$OK URLs et $NOK lignes douteuses"- Une fois que toutes les lignes du fichier ont été lues et traitées, le script affiche un récapitulatif
 $OK URLs-Affiche le nombre d'URLs valides.
 $NOK -lignes douteuses-Affiche le nombre de lignes qui ne ressemblaient pas à des URLs valides.
+
+## Rattrapage exercice git
+
+
