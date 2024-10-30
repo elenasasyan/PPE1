@@ -1,6 +1,8 @@
 # Journal de bord du projet encadré
 
-I AM ERROR 
+I AM ERROR
+
+cette ligne doit rester apres la correction 
 ## Séance 1
 
  Tout d'abord je voudrais informer que je n'ai jamais fait de la programmation et j'ai dû mal à tout comprendre.
